@@ -1,6 +1,6 @@
 # agendamento-back-spring
 
-Para este projeto funcionar adequadamente, é necessário rodar o projeto "agendamento-front-spring"
+Para melhor visualizar a funcionalidade desse projeto backend Spring Boot, é necessário rodar o projeto "agendamento-front-spring"
 
 https://github.com/pietroBragaAquinoJunior/agendamento-front-spring
 
